@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in Kentucky, US",
+  "export_job_id": "9929100f-5c73-44a3-a5ec-d8ebb3ed7811",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 126515,
+  "location_name": "Kentucky",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-kentucky-us-sample-126515",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/126515/beamstation_126515_restaurants-us-ky_SAMPLE_DIST.csv",
+  "sample_pct": 9.46,
+  "sample_records": 14,
+  "sample_sha256": "d852d48e186ef3a8d35f91e6c9fae646690eae1853abdf63a80e3a578ca8fc82",
+  "sample_size_bytes": 62953,
+  "total_records": 148,
+  "updated_at": "2026-04-08T06:58:27.236127+00:00"
+}
