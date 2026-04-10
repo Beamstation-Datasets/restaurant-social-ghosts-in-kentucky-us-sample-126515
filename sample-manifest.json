@@ -1,0 +1,12 @@
+{
+  "export_job_id": "9929100f-5c73-44a3-a5ec-d8ebb3ed7811",
+  "id_short": 126515,
+  "published_at": "2026-04-10T19:09:35Z",
+  "repo_name": "restaurant-social-ghosts-in-kentucky-us-sample-126515",
+  "sample_asset_name": "beamstation_126515_restaurants-us-ky_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/126515/beamstation_126515_restaurants-us-ky_SAMPLE_DIST.csv",
+  "sample_records": 14,
+  "sample_sha256": "d852d48e186ef3a8d35f91e6c9fae646690eae1853abdf63a80e3a578ca8fc82",
+  "sample_size_bytes": 62953,
+  "total_records": 148
+}
