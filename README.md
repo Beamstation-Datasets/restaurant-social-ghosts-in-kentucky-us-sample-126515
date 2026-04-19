@@ -9,9 +9,9 @@
 | Dataset ID | `126515` |
 | Location | Kentucky |
 | Category | Restaurants |
-| Full dataset size | 148 records |
-| Free sample size | 14 records (9.46%) |
-| Last export | 2026-04-08T06:58:27.236127+00:00 |
+| Full dataset size | 145 records |
+| Free sample size | 14 records (9.66%) |
+| Last export | 2026-04-15T10:28:32.361068+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-kentucky-us-sample-126515/releases/download/sample-latest/beamstation_126515_restaurants-us-ky_SAMPLE_DIST.csv) |
 
 ## What is in this sample
